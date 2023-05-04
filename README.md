@@ -1,14 +1,8 @@
 # CPS706_Project
 # Live Website: https://mahyartajeri.github.io/CPS706_Project/
 
-# Todo List
-- [x] Create Basic UI and about page
-- [x] Write code for drag and drop functionality
-- [x] Implement node creation and visualization
-- [x] Add support for edge connections between nodes
-- [x] Add Djikstra
-- [x] Add Bellman-Ford
-- [x] Animate Djikstra 
-- [x] Animate Bellman-Ford 
-- [x] Implement cost calculation for data transfer between nodes
-- [ ] Test and debug the application
+#Computer Networks Routing Algorithms Tool
+
+This is an educational interactive tool designed to help students better understand routing algorithms. 
+With our tool, users can create a network and explore two distinct routing algorithms ( Centralized and Decentralized Algorithms). 
+Our user-friendly interface provides students with an improved visualization experience, allowing them to gain a deeper understanding of routing algorithm concepts.
