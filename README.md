@@ -1,5 +1,5 @@
 # CPS706 Group Project
-# Live Website: https://MarkoVrljes.github.io/Routing-Algorithm-Learning-Tool/
+# Live Website: https://MarkoVrljes.github.io/Routing-Algorithm-Tool/
 
 # Computer Networks Routing Algorithms Tool
 
