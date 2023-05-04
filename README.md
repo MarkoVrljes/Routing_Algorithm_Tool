@@ -1,4 +1,4 @@
-# CPS706_Project
+# CPS706 Group Project
 # Live Website: https://mahyartajeri.github.io/CPS706_Project/
 
 # Computer Networks Routing Algorithms Tool
